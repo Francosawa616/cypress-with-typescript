@@ -1,0 +1,25 @@
+{
+  "name": "cypress-with-typescript",
+  "version": "1.0.0",
+  "description": "Repositorio  que contendra las bases de un proyecto de automatización",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francosawa616/cypress-with-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francosawa616/cypress-with-typescript/issues"
+  },
+  "homepage": "https://github.com/Francosawa616/cypress-with-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^26.3.0",
+    "cypress": "^15.21.1",
+    "typescript": "^7.0.2"
+  }
+}
